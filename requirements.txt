@@ -1,0 +1,9 @@
+mlmorph
+sentencepiece>=0.1.99
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+tokenizers>=0.14
+tqdm>=4.66
+requests>=2.31
+datasets>=2.14

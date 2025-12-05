@@ -1,0 +1,25 @@
+{
+  "models": {
+    "bpe": [
+      "trained_tokenizers\\bpe_raw_8000.json",
+      "trained_tokenizers\\bpe_raw_16000.json",
+      "trained_tokenizers\\bpe_raw_32000.json",
+      "trained_tokenizers\\bpe_morphological_8000.json",
+      "trained_tokenizers\\bpe_morphological_16000.json",
+      "trained_tokenizers\\bpe_morphological_32000.json"
+    ],
+    "sentencepiece": [
+      "trained_tokenizers\\sp_raw_8000.model",
+      "trained_tokenizers\\sp_raw_16000.model",
+      "trained_tokenizers\\sp_raw_32000.model",
+      "trained_tokenizers\\sp_morphological_8000.model",
+      "trained_tokenizers\\sp_morphological_16000.model",
+      "trained_tokenizers\\sp_morphological_32000.model"
+    ]
+  },
+  "vocab_sizes": [
+    8000,
+    16000,
+    32000
+  ]
+}

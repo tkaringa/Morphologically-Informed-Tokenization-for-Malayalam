@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Morphologically-Informed Tokenization for Malayalam"
+authors:
+  - family-names: Karingada
+    given-names: Tom
+identifiers:
+  - type: doi
+    value: TBD
+  - type: url
+    value: https://github.com/tkaringa/malayalam-morph-tokenizer
+version: 1.0.0
+message: "If you use this repository, please cite this work."
+preferred-citation:
+  type: article
+  title: "Morphologically-Informed Tokenization for Malayalam: A Hybrid Pre-Segmentation Approach for Improved NLP"
+  authors:
+    - family-names: Karingada
+      given-names: Tom
+  year: 2025
+  journal: "arXiv"
+  doi: TBD

@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+.env
+
+# Data
+malayalam_raw_corpus.txt
+enhanced_hybrid_training_data.txt
+trained_tokenizers/*.txt
+
+# Paper and LaTeX
+academic_paper_output/
+academic_paper_data/
+*.tex
+*.pdf
+*.bib
+*.sty
+*.bst
+
+# LaTeX artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# VS Code
+.vscode/
+
